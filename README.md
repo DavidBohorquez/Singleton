@@ -1,6 +1,6 @@
 # Singleton y solución a algunos problemas
 
-Este código es un proyecto para modelos 1, en el cual, de forma grupal realizamos la 
+Este código es un proyecto para modelos 1, en el cual, de forma grupal (códigos impares) realizamos la 
 implementación (en el entorno de desarrollo Eclipse) del patron Singleton con el objetivo establecer una solución a los problemas
 relacionados con su uso en ambientes multihilo y con herencia.
 
