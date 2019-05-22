@@ -1,10 +1,10 @@
 # Singleton y solución a algunos problemas
 
-Este codigo es un proyecto para modelos 1, en el cual hago una 
-implementación del patron Singleton y se da solución a los problemas
-relacionados con su uso en ambientes _multihilo_ o con _herencia_.
+Este código es un proyecto para modelos 1, en el cual, de forma grupal realizamos la 
+implementación del patron Singleton con el objetivo establecer una solución a los problemas
+relacionados con su uso en ambientes multihilo y con herencia.
 
-Investigación y código hechos por _Daniel Alejandro Rodriguez, 2019_
+Néstor David Bohorquez Galeano 20172020083.
 
 ### Fuentes:
 
